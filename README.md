@@ -1,4 +1,4 @@
-![NXT VideoGame HUD](nxt_videogame_hud_title.png)
+![NXT VideoGame HUD](nxt_videogame_title.png)
 
 ## 📑 Table of Contents
 - [Short Description](#short-description)
