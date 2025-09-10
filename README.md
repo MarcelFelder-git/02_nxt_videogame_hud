@@ -64,7 +64,7 @@ Find your next favorite title, manage a personal watchlist, or play a fun **Gues
 - **Framework:** Next.js  
 - **Frontend:** React, TypeScript, HTML, CSS  
 - **State Management:** React Hooks (useState, useEffect, useContext)  
-- **Styling:** (CSS Modules, Tailwind, or your method here)  
+- **Styling:** CSS Modules  
 - **Data Source:** RAWG API  
 
 ---
@@ -75,7 +75,7 @@ Find your next favorite title, manage a personal watchlist, or play a fun **Gues
 - **Local Storage Management:** Implemented persistent storage for the watchlist across sessions.  
 - **Game Logic:** Built interactive features like the “Guess the Game” quiz and random game generator.  
 - **Component Reusability:** Designed game detail pages with a consistent layout, reusing components effectively.  
-- **UX Considerations:** Balanced functionality with an intuitive UI, while planning further improvements for responsiveness and design polish.
+- **Responsiveness:** The app is not yet fully responsive, as the main focus during development was on functionality rather than layout and design.
 
 ---
 
