@@ -25,17 +25,23 @@ Find your next favorite title, manage a personal watchlist, or play a fun **Gues
 
 ### Screenshots
 <p align="center">
-  <img src="nxt_hud_screenshot_1.jpg" alt="NXT HUD Screenshot 1" width="80%"/>
+  <img src="nxt_videogame_screenshot_1.jpg" alt="NXT VideoGame HUD Screenshot 1" width="80%"/>
 </p>
 <p align="center">
-  <img src="nxt_hud_screenshot_2.jpg" alt="NXT HUD Screenshot 2" width="80%"/>
+  <img src="nxt_videogame_screenshot_2.jpg" alt="NXT VideoGame HUD Screenshot 2" width="80%"/>
 </p>
 <p align="center">
-  <img src="nxt_hud_screenshot_3.jpg" alt="NXT HUD Screenshot 3" width="80%"/>
+  <img src="nxt_videogame_screenshot_3.jpg" alt="NXT VideoGame HUD Screenshot 3" width="80%"/>
+</p>
+<p align="center">
+  <img src="nxt_videogame_screenshot_4.jpg" alt="NXT VideoGame HUD Screenshot 4" width="80%"/>
+</p>
+<p align="center">
+  <img src="nxt_videogame_screenshot_5.jpg" alt="NXT VideoGame HUD Screenshot 5" width="80%"/>
 </p>
 
 ### GIF Demo
-<img src="nxt_hud_demo.gif" alt="NXT HUD Demo GIF" width="100%"/>
+<img src="nxt_videogame_gif_final.gif" alt="NXT VideoGame HUD Demo GIF" width="100%"/>
 
 ### YouTube Demo Video
 [Watch the Demo on YouTube](https://youtu.be/DEMO-LINK)  
