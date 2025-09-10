@@ -80,7 +80,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/MarcelFelder-git/nxt-videogame-hud
 
-   
 2. Navigate to the project directory:
    ```bash
    cd nxt-videogame-hud
