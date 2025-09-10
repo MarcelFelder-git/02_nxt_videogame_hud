@@ -44,7 +44,7 @@ Find your next favorite title, manage a personal watchlist, or play a fun **Gues
 <img src="nxt_videogame_gif_final_1.gif" alt="NXT VideoGame HUD Demo GIF" width="100%"/>
 
 ### YouTube Demo Video
-[Watch the Demo on YouTube](https://youtu.be/DEMO-LINK](https://youtu.be/KeWtjcnb-no)  
+[Watch the Demo on YouTube](https://youtu.be/KeWtjcnb-no)
 
 ---
 
