@@ -105,6 +105,7 @@ To run this project locally, follow these steps:
 
 ## Live Demo 
 You can try out the live version of NXT VideoGame HUD here:
+
 [NXT VideoGame HUD on Vercel](https://02-nxt-videogame-hud.vercel.app)
 
 ---
