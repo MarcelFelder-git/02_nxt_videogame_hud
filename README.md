@@ -83,17 +83,17 @@ To run this project locally, follow these steps:
    
 2. Navigate to the project directory:
    ```bash
-      cd art-robbery
+   cd nxt-videogame-hud
    ````
 
 3. Install dependencies:
    ```bash
-     npm i
+   npm i
    ````
    
 4. Start the application:
    ```bash
-      npm run dev
+   npm run dev
    ````
 
 ---
