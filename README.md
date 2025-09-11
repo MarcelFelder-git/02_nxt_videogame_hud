@@ -1,6 +1,6 @@
 ![NXT VideoGame HUD](nxt_videogame_title.png)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Short Description](#short-description)
 - [Showcase](#showcase)
 - [Key Features](#key-features)
